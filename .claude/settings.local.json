@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/bin/ls:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(cat:*)",
+      "Bash(rm:*)",
+      "Bash(find:*)",
+      "mcp__sequential-thinking__sequentialthinking"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
